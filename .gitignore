@@ -1,0 +1,41 @@
+# Visual Studio user settings and caches
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio / MSBuild output
+[Dd]ebug/
+[Rr]elease/
+[Dd]ebugPublic/
+[Rr]eleases/
+[Ww]in32/
+[Xx]64/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Bb]in/
+[Oo]bj/
+[Ii]pch/
+[Oo]ut/
+
+# Generated compiler and resource files
+*.obj
+*.pch
+*.pdb
+*.ilk
+*.idb
+*.iobj
+*.ipdb
+*.res
+*.aps
+*.tlog/
+*.lastbuildstate
+*.VC.db
+*.VC.VC.opendb
+*.opendb
+*.opensdf
+*.sdf
+*.ncb
+*.cache
+*.log
